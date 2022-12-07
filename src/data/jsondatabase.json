@@ -127,5 +127,10 @@
       ]
     }
   ],
-  "top": []
+  "top": [
+    {
+      "email": "mail2@mail.com",
+      "points": 100
+    }
+  ]
 }
