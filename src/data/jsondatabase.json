@@ -1,0 +1,131 @@
+{
+  "users": [
+    {
+      "id": "5d61c633-3b3e-4ba8-a75b-09274ab13e91",
+      "name": "admin",
+      "email": "admin@mail.com",
+      "password": "$2a$08$33ikc.VVIZAuwIG1TcoYSu.ut4EgBNdz7qS1puAKopGziXkZTwmny"
+    }
+  ],
+  "questions": [
+    {
+      "id": 1,
+      "question": "Which country was the first to win two World Cups?",
+      "options": [
+        {
+          "id": 1,
+          "option": "Brazil"
+        },
+        {
+          "id": 2,
+          "option": "Germany"
+        },
+        {
+          "id": 3,
+          "option": "Scotland"
+        },
+        {
+          "id": 4,
+          "option": "Italy"
+        }
+      ],
+      "answer": [
+        4
+      ]
+    },
+    {
+      "id": 2,
+      "question": "Who are the current world champions?",
+      "options": [
+        {
+          "id": 1,
+          "option": "Germany"
+        },
+        {
+          "id": 2,
+          "option": "Brazil"
+        },
+        {
+          "id": 3,
+          "option": "France"
+        },
+        {
+          "id": 4,
+          "option": "Scotland"
+        }
+      ],
+      "answer": [
+        3
+      ]
+    },
+    {
+      "id": 3,
+      "question": "The World Cup was started by...",
+      "options": [
+        {
+          "id": 1,
+          "option": "The ancient Greeks"
+        },
+        {
+          "id": 2,
+          "option": "The Victorians"
+        },
+        {
+          "id": 3,
+          "option": "FIFA"
+        },
+        {
+          "id": 4,
+          "option": "Some lads down the park"
+        }
+      ],
+      "answer": [
+        1
+      ]
+    },
+    {
+      "id": 4,
+      "question": "Every country in the world plays in the World Cup. True or false?",
+      "options": [
+        {
+          "id": 1,
+          "option": "True"
+        },
+        {
+          "id": 2,
+          "option": "False"
+        }
+      ],
+      "answer": [
+        2
+      ]
+    },
+    {
+      "id": 5,
+      "question": "Which country has won four World Cups?",
+      "options": [
+        {
+          "id": 1,
+          "option": "Brazil"
+        },
+        {
+          "id": 2,
+          "option": "Italy"
+        },
+        {
+          "id": 3,
+          "option": "Germany"
+        },
+        {
+          "id": 4,
+          "option": "England"
+        }
+      ],
+      "answer": [
+        2,
+        3
+      ]
+    }
+  ],
+  "top": []
+}
